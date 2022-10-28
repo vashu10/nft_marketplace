@@ -1,1 +1,2 @@
-# NFT Marketplace Platform Vashu Sinha
+# NFT Marketplace Platform
+
